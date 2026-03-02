@@ -8,7 +8,7 @@
 
 ## Download
 
-### 👉 [Click here to download the latest version](https://github.com/mashed-potatoes/PotatoNV/releases/download/v2.2.1_2022.03/PotatoNV-next-v2.2.1_2022.03-x86.zip).
+### 👉 [Click here to download the latest version](https://github.com/mashed-potatoes/PotatoNV/releases/download/2022.03/PotatoNV-next-v2.2.1_2022.03-x86.zip).
 
 Get binaries for Windows in [the releases section](https://github.com/mashed-potatoes/PotatoNV/releases).
 For Linux or macOS consider using the [PotatoNV-crossplatform](https://github.com/mashed-potatoes/PotatoNV-crossplatform).
